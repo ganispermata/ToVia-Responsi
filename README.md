@@ -3,14 +3,13 @@
 Aplikasi Persebaran Desa Wisata di Jawa Tengah dan Sekitarnya.
 
 ## Deskripsi Produk
-CoBin (PhotoCopy & Binding) adalah aplikasi mobile berbasis WebGIS yang memberikan informasi mengenai persebaran toko fotocopy dan jilid yang berada di sekitar Universitas Gadjah Mada. Aplikasi ini memiliki beberapa fitur yaitu:
-1. Home (gambar, daftar/list nama toko, jam operasional, dan alamat)
-2. Peta Interaktif (marker pop-up informasi nama toko dan jam operasional)
-3. Tambah Data
-4. Portofolio Developer
-5. Tentang Aplikasi
-
-CoBin memiliki manfaat bagi mahasiswa dan para pelaku usaha percetakan fotocopy dan jilid. Bagi mahasiswa, CoBin berguna untuk memberikan informasi titik lokasi tempat fotocopy dan jilid di sekitar UGM dan dapat mengetahui jam operasional toko serta alamat toko. Bagi pelaku usaha, CoBin berguna untuk mempublikasikan toko mereka dengan fitur "Add Data" atau menambahkan data toko dengan memasukkan informasi berupa nama toko, jam operasional, dan titik koordinat.
+ToVia (Tourist Village Application) adalah Aplikasi ini memberikan kemudahan bagi turis lokal maupun turis mancanegara untuk dapat mengetahui informasi tentang desa wisata yang ada di Provinsi Jawa Tengah dan Sekitarnya. Aplikasi ini memiliki beberapa fitur yaitu:
+1. Welcome Page sebagai Landing Page untuk awal dari tampilan aplikasi jika ditekan 'mulai' maka aplikasi akan berjalan
+2. Home (Tentang Aplikasi)
+3. Peta Interaktif (marker pop-up informasi nama desa wisata, rating, alamat , dan jam operasional)
+4. Tambah Data
+5. Catalog (List Data Desa Wisata)
+6. Profile (Profile Pembuat Aplikasi)
 
 ## Komponen Pembangun Produk
 1. React Native
@@ -28,22 +27,23 @@ CoBin memiliki manfaat bagi mahasiswa dan para pelaku usaha percetakan fotocopy 
 4. Gambar 
 
 ## Tampilan Aplikasi
+*WELCOME*
+
+![Welcome Page](https://github.com/ganispermata/ToVia-Responsi/assets/145950519/dd100fa2-61f4-4947-a6d0-c3ad0558cc68)
+
 *HOME*
 
-![image](https://github.com/anisatadzvi/cobin-responsi/assets/88225607/472a44f0-0865-4b13-b609-6493a4c13b26)
+![Home Page](https://github.com/ganispermata/ToVia-Responsi/assets/145950519/adf73eda-2309-486b-bff8-4fc49ff1f38e)
+*MAP*
 
-*MAPS*
-
-![image](https://github.com/anisatadzvi/cobin-responsi/assets/88225607/e9098f6b-effa-45f4-8ea4-275c78c2d6b0)
-
+![Map Page](https://github.com/ganispermata/ToVia-Responsi/assets/145950519/6ed49ad5-3904-4e1d-9fd4-ff1a984991d4)
 *ADD DATA*
 
-![image](https://github.com/anisatadzvi/cobin-responsi/assets/88225607/db89a19b-46d8-4d5c-8a7a-52ddc8e6d480)
+![Add Data](https://github.com/ganispermata/ToVia-Responsi/assets/145950519/1ae74a03-1752-440f-8e0e-140df663a281)
+*CATALOG*
 
+![Catalog](https://github.com/ganispermata/ToVia-Responsi/assets/145950519/87a5ec7c-62ce-40f6-917f-01a15b7962cb)
 *PROFILE*
 
-![image](https://github.com/anisatadzvi/cobin-responsi/assets/88225607/c49486fa-3a59-4d65-9d70-007bc8e26420)
+![Profile](https://github.com/ganispermata/ToVia-Responsi/assets/145950519/85bd0474-e34c-4008-af13-2546ae261beb)
 
-*ABOUT*
-
-![image](https://github.com/anisatadzvi/cobin-responsi/assets/88225607/4e304ac1-7416-4a20-8531-bcad461a6726)
