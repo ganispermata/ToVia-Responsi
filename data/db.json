@@ -1,0 +1,40 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Ganis",
+      "nim": "21/482643/SV/19977",
+      "jeniskelamin": "perempuan",
+      "kelas": "B",
+      "icon": "discord",
+      "color": "#9BBEC8"
+    },
+    {
+      "nama": "Ganis Permatahati",
+      "nim": "21/482643/SV/19977",
+      "jeniskelamin": "perempuan",
+      "kelas": "B",
+      "icon": "apple",
+      "color": "#9BBEC8",
+      "id": 2
+    },
+    {
+      "nama": "Ganis test",
+      "nim": "21/482643/SV/19977",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "#860A35",
+      "icon": "hippo",
+      "id": 3
+    },
+    {
+      "nama": "Ganis test lagi",
+      "nim": "21/482643/SV/19977",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "#ECF85E",
+      "icon": "twitter",
+      "id": 4
+    }
+  ]
+}
