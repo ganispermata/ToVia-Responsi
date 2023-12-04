@@ -1,79 +1,49 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+## ToVia (Tourist Village Application)
 
-# Getting Started
+Aplikasi Persebaran Desa Wisata di Jawa Tengah dan Sekitarnya.
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## Deskripsi Produk
+CoBin (PhotoCopy & Binding) adalah aplikasi mobile berbasis WebGIS yang memberikan informasi mengenai persebaran toko fotocopy dan jilid yang berada di sekitar Universitas Gadjah Mada. Aplikasi ini memiliki beberapa fitur yaitu:
+1. Home (gambar, daftar/list nama toko, jam operasional, dan alamat)
+2. Peta Interaktif (marker pop-up informasi nama toko dan jam operasional)
+3. Tambah Data
+4. Portofolio Developer
+5. Tentang Aplikasi
 
-## Step 1: Start the Metro Server
+CoBin memiliki manfaat bagi mahasiswa dan para pelaku usaha percetakan fotocopy dan jilid. Bagi mahasiswa, CoBin berguna untuk memberikan informasi titik lokasi tempat fotocopy dan jilid di sekitar UGM dan dapat mengetahui jam operasional toko serta alamat toko. Bagi pelaku usaha, CoBin berguna untuk mempublikasikan toko mereka dengan fitur "Add Data" atau menambahkan data toko dengan memasukkan informasi berupa nama toko, jam operasional, dan titik koordinat.
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+## Komponen Pembangun Produk
+1. React Native
+2. HTML, JS, JSON
+3. Leaflet JS
+4. Font Awesome 5
+5. Google Spreadsheet
+6. Apps Script
+7. GitHub Pages
 
-To start Metro, run the following command from the _root_ of your React Native project:
+## Sumber Data
+1. Data Koordinat Google Maps
+2. Data Alamat
+3. Data Jam Operasional
+4. Gambar 
 
-```bash
-# using npm
-npm start
+## Tampilan Aplikasi
+*HOME*
 
-# OR using Yarn
-yarn start
-```
+![image](https://github.com/anisatadzvi/cobin-responsi/assets/88225607/472a44f0-0865-4b13-b609-6493a4c13b26)
 
-## Step 2: Start your Application
+*MAPS*
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+![image](https://github.com/anisatadzvi/cobin-responsi/assets/88225607/e9098f6b-effa-45f4-8ea4-275c78c2d6b0)
 
-### For Android
+*ADD DATA*
 
-```bash
-# using npm
-npm run android
+![image](https://github.com/anisatadzvi/cobin-responsi/assets/88225607/db89a19b-46d8-4d5c-8a7a-52ddc8e6d480)
 
-# OR using Yarn
-yarn android
-```
+*PROFILE*
 
-### For iOS
+![image](https://github.com/anisatadzvi/cobin-responsi/assets/88225607/c49486fa-3a59-4d65-9d70-007bc8e26420)
 
-```bash
-# using npm
-npm run ios
+*ABOUT*
 
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+![image](https://github.com/anisatadzvi/cobin-responsi/assets/88225607/4e304ac1-7416-4a20-8531-bcad461a6726)
